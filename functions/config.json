@@ -1,0 +1,27 @@
+[
+    {
+        "name": "getAllUsers",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "getSingleUser",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "editUser",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "createUser",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "deleteUser",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
